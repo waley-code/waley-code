@@ -35,9 +35,3 @@ src="https://img.shields.io/github/followers/waley-code ?logo=github&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/waley-code " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oyewale-adeosun-6b2203133" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/OyewaleAdeosun?t=l4zNwvlJR88wEVcKT5jwQg&s=09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/waley-code "><img src="https://github-readme-streak-stats.herokuapp.com/?user=waley-code &stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>--->
