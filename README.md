@@ -1,7 +1,7 @@
 Hi 👋 My name is Oyewale Adeosun
 ================================
 
-Full Stack Software Engineer (in training)
+Full Stack Software Engineer
 ------------------------------------------
 
 A Full Stack Software Engineer with specialty in back-end development having proficiency in technologies such as C, JavaScript, Node.js, Python, Flask, MySQL, PostgreSQL, and MongoDB, having strong understanding of web development concepts, including web protocols, web services, and web architecture.
