@@ -13,6 +13,7 @@ A Full Stack Software Engineer with specialty in back-end development having pro
 
 <a href="https://www.github.com/waley-code " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/waley-code ?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=waley-code.waley-code)
 
 ### Skills
 
