@@ -9,7 +9,7 @@ A Full Stack Software Engineer with specialty in back-end development having pro
 * 🌍  I'm based in Lagos Nigeria
 * ✉️  You can contact me at [walephlp@gmail.com](mailto:walephlp@gmail.com)
 * 🧠  I'm learning Solutions Architect on AWS
-* 🤝  I'm open to collaborating on back and front-end technologies
+* 🤝  I'm open to collaborating on Cloud, back and front-end technologies
 
 <a href="https://www.github.com/waley-code " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/waley-code ?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
