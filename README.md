@@ -1,7 +1,7 @@
 Hi 👋 My name is Oyewale Adeosun
 ================================
 
-Software Engineer || Data || AWS Cloud Practitioner
+Backend Engineer || Data || AWS Cloud Practitioner
 ------------------------------------------
 
 A Full Stack Software Engineer with specialty in back-end development having proficiency in technologies such as C, C#, JavaScript, Node.js, Python, Flask, Django, MySQL, PostgreSQL, and MongoDB, having strong understanding of web development concepts, including web protocols, web services, and web architecture.
